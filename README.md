@@ -1,1 +1,1 @@
-# ghostwheat.github.com
+# ghostwheat.github.io
