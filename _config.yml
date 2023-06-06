@@ -1,9 +1,6 @@
-
 gist:
   noscript: false
-
-
-
+theme: merlot
 
 
 
@@ -80,5 +77,4 @@ kramdown:
   show_warnings     : false
   math_engine: mathjax
   syntax_highlighter: rouge
-  
-theme: merlot
+
